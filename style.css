@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bosh nav {
+    display: flex;
+    align-items: center;
+    background-color: #3363d4;
+    gap: 100px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 500ms;
+}
+
+.bosh nav a:hover{
+  color: gold;
+  font-size:bold; 
+  font-size: 25px;
+}
+
+
+
+
+.w{
+    display: flex;
+    gap: 150px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+
+.a{
+    margin-left: 80px;
+    margin-top: 60px;
+    background-color: rgba(207, 205, 205, 0.526) ;
+    width: 300px;
+    border-radius: 20px;
+    border: 3px solid black;
+    box-shadow: 20px 18px 25px rgb(34, 34, 34);
+}
+.a p{
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+.e{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+.q{
+    margin-top: 130px;
+    text-align: center;
+}
+
+
+
+
+
+
